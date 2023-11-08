@@ -1,0 +1,26 @@
+.div-1{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    margin: 2px 2px 2px 2px;
+    border-radius: 20%;
+    border-style: double;
+    border-width: 6cap;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: 500;
+    
+}
+.no-1{
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+   
+}
+.main-container{
+    margin-left: 380px;
+}
+.main-heading{
+    color: blue;
+    font-weight: 900;
+    font-size: larger;
+}
